@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EivFHPNVrM084pK6HuD8xgzy/8+i068SYiapkBAp2ZAxc/mkxG7k69W0Nh8yq+1WjeXXatTzNdW/I9OmNKtDww==",
+  "success": true,
+  "projectFilePath": "D:\\UNI\\Grupo 9_ U20230358\\Grupo 9_ U20230358.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dark\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

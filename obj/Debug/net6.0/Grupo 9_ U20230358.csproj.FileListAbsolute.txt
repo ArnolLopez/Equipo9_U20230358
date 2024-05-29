@@ -1,0 +1,17 @@
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Grupo 9_ U20230358.exe
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Grupo 9_ U20230358.deps.json
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Grupo 9_ U20230358.runtimeconfig.json
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Grupo 9_ U20230358.dll
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Grupo 9_ U20230358.pdb
+D:\UNI\Grupo 9_ U20230358\bin\Debug\net6.0\Spectre.Console.dll
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.csproj.AssemblyReference.cache
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.AssemblyInfoInputs.cache
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.AssemblyInfo.cs
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.csproj.CoreCompileInputs.cache
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.csproj.CopyComplete
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.dll
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\refint\Grupo 9_ U20230358.dll
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.pdb
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\Grupo 9_ U20230358.genruntimeconfig.cache
+D:\UNI\Grupo 9_ U20230358\obj\Debug\net6.0\ref\Grupo 9_ U20230358.dll
